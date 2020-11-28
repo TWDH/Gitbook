@@ -1,2 +1,0 @@
-# lamda-biao-da-shi
-

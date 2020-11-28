@@ -1,6 +1,6 @@
 # Collection集合
 
-![](../.gitbook/assets/01-ji-he-kuang-jia-jie-shao-%20%282%29%20%282%29.bmp)
+![](../.gitbook/assets/01-ji-he-kuang-jia-jie-shao-%20%282%29.bmp)
 
 ## 概述
 

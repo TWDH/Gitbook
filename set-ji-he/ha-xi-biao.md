@@ -1,6 +1,6 @@
 # 哈希表
 
-![](../.gitbook/assets/05hashset-ji-he-cun-chu-shu-ju-de-jie-gou-ha-xi-biao-%20%281%29%20%281%29.bmp)
+![](../.gitbook/assets/05hashset-ji-he-cun-chu-shu-ju-de-jie-gou-ha-xi-biao-%20%281%29.bmp)
 
 ## 1.概述
 
