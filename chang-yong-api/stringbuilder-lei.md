@@ -1,6 +1,6 @@
 # StringBuilder类
 
-![](../.gitbook/assets/01stringbuilder-de-yuan-li-%20%281%29.bmp)
+![](../.gitbook/assets/01stringbuilder-de-yuan-li-%20%281%29%20%281%29.bmp)
 
 ## 概述
 

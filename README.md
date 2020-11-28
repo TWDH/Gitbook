@@ -1,5 +1,6 @@
-# Table of contents
-* [Initial page](README.md)
+# Initial page
+
+* [Initial page](./)
 
 ## 基础
 
@@ -12,23 +13,23 @@
 
 ## 面向对象 <a id="mian-xiang-dui-xiang-1"></a>
 
-* [面向对象](mian-xiang-dui-xiang-1/mian-xiang-dui-xiang/README.md)
+* [面向对象](mian-xiang-dui-xiang-1/mian-xiang-dui-xiang/)
   * [类作为方法返回值](mian-xiang-dui-xiang-1/mian-xiang-dui-xiang/lei-zuo-wei-fang-fa-fan-hui-zhi.md)
 * [封装性 + This](mian-xiang-dui-xiang-1/feng-zhuang.md)
 * [构造方法](mian-xiang-dui-xiang-1/gou-zao-fang-fa.md)
 * [标准类](mian-xiang-dui-xiang-1/untitled.md)
-* [API](mian-xiang-dui-xiang-1/api/README.md)
+* [API](mian-xiang-dui-xiang-1/api/)
   * [String](mian-xiang-dui-xiang-1/api/string.md)
   * [Random](mian-xiang-dui-xiang-1/api/random.md)
   * [Scanner](mian-xiang-dui-xiang-1/api/scanner.md)
 * [匿名对象](mian-xiang-dui-xiang-1/ni-ming-dui-xiang.md)
 * [对象数组](mian-xiang-dui-xiang-1/dui-xiang-shu-zu.md)
 * [Static](mian-xiang-dui-xiang-1/static.md)
-* [继承性](mian-xiang-dui-xiang-1/ji-cheng-xing/README.md)
+* [继承性](mian-xiang-dui-xiang-1/ji-cheng-xing/)
   * [抽象](mian-xiang-dui-xiang-1/ji-cheng-xing/chou-xiang.md)
-* [接口](mian-xiang-dui-xiang-1/jie-kou/README.md)
+* [接口](mian-xiang-dui-xiang-1/jie-kou/)
   * [接口多继承](mian-xiang-dui-xiang-1/jie-kou/jie-kou-duo-ji-cheng.md)
-* [多态](mian-xiang-dui-xiang-1/duo-tai/README.md)
+* [多态](mian-xiang-dui-xiang-1/duo-tai/)
   * [Computer-USB练习](mian-xiang-dui-xiang-1/duo-tai/computerusb-lian-xi.md)
 * [Final](mian-xiang-dui-xiang-1/final.md)
 * [四种权限修饰符](mian-xiang-dui-xiang-1/si-zhong-quan-xian-xiu-shi-fu.md)
@@ -43,7 +44,7 @@
 ## 常用API
 
 * [Object类](chang-yong-api/object-lei.md)
-* [Date类](chang-yong-api/date-lei/README.md)
+* [Date类](chang-yong-api/date-lei/)
   * [出生日期-练习](chang-yong-api/date-lei/chu-sheng-ri-qi-lian-xi.md)
 * [Calendar类](chang-yong-api/calendar-lei.md)
 * [System类](chang-yong-api/system-lei.md)
@@ -85,7 +86,7 @@
 ## Map
 
 * [Map](map/map.md)
-* [HashMap](map/hashmap/README.md)
+* [HashMap](map/hashmap/)
   * [Map-Entry](map/hashmap/map-entry.md)
 * [LinkedHashMap](map/linkedhashmap.md)
 * [HashTable&lt;K,V&gt;](map/hashtable-less-than-k-v-greater-than.md)
@@ -121,7 +122,7 @@
 
 ## IO
 
-* [IO流 - 字节流](io/io-liu/README.md)
+* [IO流 - 字节流](io/io-liu/)
   * [拷贝数据练习](io/io-liu/kao-bei-shu-ju-lian-xi.md)
 * [IO流 - 字符流](io/io-liu-zi-fu-liu.md)
 * [属性集（properties）](io/shu-xing-ji.md)
@@ -148,5 +149,4 @@
 
 * [Stream流](stream-liu/stream-liu.md)
 * [方法引用](stream-liu/fang-fa-yin-yong.md)
-
 
